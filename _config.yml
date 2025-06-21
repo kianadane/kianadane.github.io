@@ -5,6 +5,9 @@ url: "https://kianadane.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
+sass:
+  style: compressed
+  
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
