@@ -1,8 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-taxonomy: category
-category: Publications
+layout: single
 ---
 
 ## Selected Papers
