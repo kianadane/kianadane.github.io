@@ -36,7 +36,7 @@ defaults:
 
 author:
   name: "Kiana Dane"
-  avatar: "/assets/images/avatar.jpeg"
+  avatar: "/assets/images/avatar.png"
   bio: "Data scientist | Geospatial AI | Ethics & ML"
   location: "Charlottesville, VA"
   email: "kianadane@gmail.com"
