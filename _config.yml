@@ -1,1 +1,30 @@
+title: Kiana Dane's Research
+description: Academic publications and research projects
+baseurl: "" 
+url: "https://kianadane.github.io"
 
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
+author:
+  name: "Kiana Dane"
+  avatar: "/assets/images/avatar.jpg"  # Add your photo here if desired
+  bio: "Data scientist and researcher. Passionate about AI and ethics."
+
+# Optional: for navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
