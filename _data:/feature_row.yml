@@ -1,0 +1,11 @@
+papers:
+  - image_path: /assets/images/paper1.jpg
+    alt: "Paper 1"
+    title: "Cookies in a Honeypot"
+    excerpt: "The illusion of data privacy in the U.S."
+    url: /papers/Cookies_in_a_honeypot_the_illusion_of_data_privacy_in_the_US.pdf
+  - image_path: /assets/images/paper2.jpg
+    alt: "LLMs and Infrastructure"
+    title: "LLMs for Construction and Utility Systems"
+    excerpt: "Integrating LLMs into urban infrastructure data workflows."
+    url: /papers/LLMs_for_Construction_and_Utility_Information_Systems.pdf
