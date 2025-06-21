@@ -9,6 +9,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 defaults:
   - scope:
       path: ""
@@ -19,10 +24,9 @@ defaults:
 
 author:
   name: "Kiana Dane"
-  avatar: "/assets/images/avatar.jpg"  # Add your photo here if desired
+  avatar: "/assets/images/avatar.jpg"
   bio: "Data scientist and researcher. Passionate about AI and ethics."
 
-# Optional: for navigation
 nav:
   - title: "Home"
     url: /
