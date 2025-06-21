@@ -17,6 +17,7 @@ collections:
     output: true
     permalink: /:path/
 
+
 defaults:
   - scope:
       path: ""
@@ -24,11 +25,28 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.3"
 
 author:
   name: "Kiana Dane"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Data scientist and researcher. Passionate about AI and ethics."
+  bio: "Data scientist | Geospatial AI | Ethics & ML"
+  location: "Charlottesville, VA"
+  email: "kianadane@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/kianadane"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/kiana-dane"
 
 nav:
   - title: "Home"
