@@ -9,3 +9,13 @@ papers:
     title: "LLMs for Construction and Utility Systems"
     excerpt: "Integrating LLMs into urban infrastructure data workflows."
     url: /papers/LLMs_for_Construction_and_Utility_Information_Systems.pdf
+  - image_path: /assets/images/paper3.jpg
+    alt: "Temporal Anomaly Detection in Satellite Imagery"
+    title: "Temporal anomaly detection in multi-spectral satellite imagery"
+    excerpt: "Exploring and comparing several spatiotemporal models to identify anomalies in time-series data."
+    url: /papers/Temporal_Anomaly_Detection_in_Multi_Spectral_Satellite_Imagery.pdf
+  - image_path: /assets/images/paper4.jpg
+    alt: "Neural Models for Anomaly Detection in Time-series Data"
+    title: "Design and Evaluation of Neural Models for Anomaly Detection in Time-series Remote Sensing data."
+    excerpt: "Presents a deep learning approach for detecting anomalies in satellite time series using spectral and temporal patterns."
+    url: /papers/design_and_evaluation_neural_models_anomaly_detection_remote_sensing_data.pdf
