@@ -14,5 +14,5 @@ _. [PDF](/papers/Cookies_in_a_honeypot_the_illusion_of_data_privacy_in_the_US.pd
 - **2025**: _Temporal Anomaly Detection in Satellite Imagery_. [PDF](/papers/Temporal_Anomaly_Detection_in_Multi_Spectral_Satellite_Imagery.pdf)  
   *Co-authored with Devon Hathaway, Zach Stautzenbach, Jonathan Swap, mentored by Dr. Tobias K. Fritz.*
 
-- **2025**: _Design and Evaluation of Neural Models for Anomaly Detection in Time-series Remote Sensing data_. [PDF](/papers/_design_and_evaluation_neural_models_anomaly_detection_remote_sensing_data.pdf)
+- **2025**: _Design and Evaluation of Neural Models for Anomaly Detection in Time-series Remote Sensing data_. [PDF](/papers/design_and_evaluation_neural_models_anomaly_detection_remote_sensing_data.pdf)
    *Co-authored with Devon Hathaway.* 
